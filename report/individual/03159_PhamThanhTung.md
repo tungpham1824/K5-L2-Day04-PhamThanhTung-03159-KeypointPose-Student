@@ -5,7 +5,7 @@ Dữ liệu: 12 ảnh người COCO val2017 (Lin et al., 2014) và 8 ảnh chân
 ## 0. Thông tin học viên
 
 - Họ tên:Pham Thanh Tung 
-- MSSV:03519      
+- MSSV:03159      
 - Email:tungpham1824@gmail.com
 - Link repository:https://github.com/tungpham1824/K5-L2-Day04-PhamThanhTung-03519-KeypointPose-Student.git
 - Phiên bản CVAT (Help → About):2.74.1
